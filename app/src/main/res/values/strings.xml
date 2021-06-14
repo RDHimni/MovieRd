@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MovieRd</string>
+    <string name="movie_streaming">Movie Streaming</string>
+    <string name="home">Home</string>
+    <string name="tv_shows">Tv Shows</string>
+    <string name="movies">Movies</string>
+    <string name="kids">Kids</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="start_over">Start Over</string>
+</resources>
